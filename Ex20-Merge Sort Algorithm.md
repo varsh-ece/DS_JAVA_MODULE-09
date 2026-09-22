@@ -1,6 +1,6 @@
 
 # Ex20 Sorting an Array using Merge Sort Algorithm
-DATE-11.8.26
+## DATE-11.8.26
 ## AIM:
 To design a program that sorts a given array of integers in ascending order without using built-in sorting functions, achieving O(n log n) time complexity and minimal space usage.
 
